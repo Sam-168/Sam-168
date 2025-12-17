@@ -12,7 +12,7 @@ Check out my [coding portfolio!](https://samndlela.netlify.app/)
 
 ## 🎓 About Me
 
-I'm also an educational ontent creator and tutor. I help students in my university understand programming concepts with confidence
+I'm also an educational content creator and tutor. I help students in my university understand programming concepts with confidence
 
 - [Instagram](https://www.instagram.com/swerikcodes/)
 - [TikTok](https://www.tiktok.com/@swerikcodes)
