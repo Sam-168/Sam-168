@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Samukelo Ndlela</h1>
 
-<!--
-**Sam-168/Sam-168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+I am a third-year Information Technology student at the Cape Peninsula University of Technology and I am passionate about programming, artificial intelligence and cars.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Up To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Exploring the foundations of AI and Machine Learning
+- 💻 Building full stack applications with Java and Python
+
+Check out my [coding portfolio!](https://samndlela.netlify.app/)
+
+## 🎓 About Me
+
+I'm also an educational ontent creator and tutor. I help students in my university understand programming concepts with confidence
+
+- [Instagram](https://www.instagram.com/swerikcodes/)
+- [TikTok](https://www.tiktok.com/@swerikcodes)
+
+
+
+## 🌐 Connect with me:
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samukelondlela2.0@gmail.com)
+
+
+# 💻 Tech Stack:
+Languages: 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+
+Developer Tools: 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 📚 Currently Learning:
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Learning-brightgreen?style=for-the-badge&logo=spring-boot)
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
