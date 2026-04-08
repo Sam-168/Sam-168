@@ -15,8 +15,8 @@ Check out my [coding portfolio!](https://samndlela.netlify.app/)
 
 I'm also an educational content creator and tutor. I help students in my university understand programming concepts with confidence.
 
-- [Instagram](https://www.instagram.com/swerikcodes/)
-- [TikTok](https://www.tiktok.com/@swerikcodes/)
+- [Instagram](https://www.instagram.com/sam.ndlela/)
+- [TikTok](https://www.tiktok.com/@samukelo45/)
 
 ---
 
@@ -49,6 +49,7 @@ I'm also an educational content creator and tutor. I help students in my univers
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
