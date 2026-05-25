@@ -9,7 +9,7 @@ I am a third-year Information Technology student at the Cape Peninsula Universit
 - 💻 Building full stack applications with Java, Python & JavaScript
 - 🧠 Creating educational content to simplify programming concepts
 
-Check out my [coding portfolio!](https://samukelondlela.netlify.app/)
+Check out my [coding portfolio!](https://samukelo-portfolio.netlify.app/)
 
 ## 🎓 About Me
 
