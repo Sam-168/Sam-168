@@ -11,13 +11,6 @@ I am a third-year Information Technology student at the Cape Peninsula Universit
 
 Check out my [coding portfolio!](https://samukelo-portfolio.netlify.app/)
 
-## 🎓 About Me
-
-I'm also an educational content creator and tutor. I help students in my university understand programming concepts with confidence.
-
-- [Instagram](https://www.instagram.com/sam.ndlela/)
-- [TikTok](https://www.tiktok.com/@samukelo45/)
-
 ---
 
 ## 🌐 Connect with me:
